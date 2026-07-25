@@ -1,3 +1,8 @@
+-=(Poseidon notes)=-
+
+This is a SVI328 port from Calypso FPGA by [teiram](https://github.com/teiram)
+
+___
 # Information
 Spectravideo SVI328 port from [SiDi core](https://github.com/RW-FPGA-devel-Team/SVI328-SiDi)
 
